@@ -8,7 +8,7 @@ The project's aim is to provide insight on PyBer's ride & city datas. We will cr
 
 <br>
 
-![image](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/dist_sum_old.PNG)
+![image](https://raw.githubusercontent.com/RobC30/Pyber_Analysis/main/Resources/pyber_summary.PNG)
 
 
 <br>
@@ -25,10 +25,10 @@ Based on the analysis, we can conclude that a city type's total number of rides 
 
 <br>
 
-![image](https://raw.githubusercontent.com/RobC30/School_District_Analysis/main/Resources/dist_sum_old.PNG)
+![image](https://raw.githubusercontent.com/RobC30/Pyber_Analysis/main/analysis/Pyber_fare_summary.png)
 
 
-With the given line chart, we can better visualise how different city types performed in a span of __5 months__. This further supports our results of how __Urban__ outperforms the other two categories in terms of __Total Fares__. Given that population differs on each city type, only __Urban & Suburban__ saw an upward trend in 5 month's of operation. __Urban__ started at __$1,600__ and ended at __$2,300__ while __Suburban__ started at __$700__ ending at __$1400__.
+With the given line chart, we can better visualise how different city types performed in a span of __5 months__. This further supports our results of how __Urban__ outperforms the other two categories in terms of __Total Fares__. Given that population differs on each city type, only __Urban & Suburban__ saw an upward trend in 5 month's of operation. __Urban__ started at __$1,600__ and ended at __$2,300__ while __Suburban__ started at __$700__ ending at __$1,400__.
 
 Here can see upward ticks at the three city types on the latter half of February, which might be because of riders using PyBer before/after Valentine's Day plans. 
 
